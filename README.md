@@ -33,4 +33,7 @@ To run the requirements.txt
 ```
 pip install -r MLOps_Project_wafer\requirements.txt
 ```
-
+## Create and checkout a development branch
+```
+git checkout -b dev
+```
