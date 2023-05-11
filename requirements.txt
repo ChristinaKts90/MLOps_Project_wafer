@@ -1,0 +1,5 @@
+# external requirements
+cookiecutter
+dvc
+# local package
+#-e .
